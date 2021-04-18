@@ -13,17 +13,17 @@ Atividade Digital Inovation One - Clone da Netflix + conteúdo dos meus melhores
 ## Prévias
 
     [ 320 x 570 ]
-<img src="https://github.com/svapollo/hipocampo/blob/main/assets/gif/320-570.gif"/>
+<img src="https://github.com/svapollo/hipocampo/blob/gh-pages/assets/gif/320-570.gif"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
     [ 768 x 570 ]
-<img src="https://github.com/svapollo/hipocampo/blob/main/assets/gif/768-570.gif"/>
+<img src="https://github.com/svapollo/hipocampo/blob/gh-pages/assets/gif/768-570.gif"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
     [ 1440 x 633 ]
-<img src="https://github.com/svapollo/hipocampo/blob/main/assets/gif/1440-633.gif"/>
+<img src="https://github.com/svapollo/hipocampo/blob/gh-pages/assets/gif/1440-633.gif"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
